@@ -132,6 +132,9 @@ body {
   line-height: 1.71;
 }
 
+.address-section {
+  font-style: normal;
+}
 .address-text {
   color: var(--primary-white-color);
 
